@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 input/
-training-data.pkl
+data/
+__pycache__/
