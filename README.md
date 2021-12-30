@@ -41,9 +41,9 @@ mv * breast-histopathology-images
 | Model             | Acc.        |
 | ----------------- | ----------- |
 | [Baseline](https://github.com/AntoninVidon/BreastHistopathology) (XGBoost after PCA)                             | 81.38%      |
-| [ResNet18](https://arxiv.org/abs/1512.03385)             | 85.76%      |
-| [ResNet34](https://arxiv.org/abs/1512.03385)             | 85.73%      |
-| [ResNet50](https://arxiv.org/abs/1512.03385)             | 85.78%      |
+| [ResNet18](https://arxiv.org/abs/1512.03385)                                                                     | 85.76%      |
+| [ResNet34](https://arxiv.org/abs/1512.03385)                                                                     | 85.73%      |
+| [ResNet50](https://arxiv.org/abs/1512.03385)                                                                     | 85.78%      |
 
 
 
